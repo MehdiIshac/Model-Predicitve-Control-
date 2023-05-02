@@ -3,6 +3,8 @@
 Point Stabilization of Mobile Robots with Nonlinear Model Predictive Control :
 Felipe Kuhne, Walter Fetter Lages and Joao Manoel Gomes da Silva Jr. """
 
+""" python 3.9.13 64-bit (Microsoft Store) """ 
+
 #################################################################################
 
 """ ------------------------ NON LINEAR MPC EXAMPLE ------------------------ """
