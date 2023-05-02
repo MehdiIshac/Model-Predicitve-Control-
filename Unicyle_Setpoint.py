@@ -15,6 +15,7 @@ from numpy import sin as sin , cos as cos , shape as shape , pi as pi , dot as d
 from numpy.linalg import norm as norm 
 from scipy.linalg import block_diag as blkdiag
 from scipy.optimize import NonlinearConstraint, minimize
+from pylab import *
 import time
 global xek ;  global N ;global n; global m ; global NT ; global T ; global xr ; global ur
 
