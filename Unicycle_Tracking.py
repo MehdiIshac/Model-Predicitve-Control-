@@ -43,7 +43,7 @@ nsec = 7 # Number of seconds
 T = 0.1 # Sample time
 
 N=6 ; n=3 ; m=2  ; NT =  int(nsec/T)
-vmin = -1 ; vmax = 3 ; wmin = -pi/3 ; wmax = pi/3
+vmin = -0.1 ; vmax = 0.1 ; wmin = -pi/10 ; wmax = pi/10
 k_iter=0
 
 
