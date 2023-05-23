@@ -133,7 +133,7 @@ for k in range(NT) :
 
     zk = z
 
-    #print(f"--- {time.time() - start_time} (Intermediate time ) seconds ---") #une commande toutes les x secondes
+    #print(f"--- {time.time() - start_time} (Intermediate time ) seconds ---") 
 
 
 
